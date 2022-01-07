@@ -12,15 +12,15 @@ The prototyping tool used was Adobe XD, it was a tool presented during the compu
 
 **Home screen, paused music and lowered information bar:** 
 
-![Initial status](Music paused.png)
+![Initial status](/Music paused.png)
 
 **Music playing and lowered information bar:**
 
-![Music Playing](Music Playing.png)
+![Music Playing](/Music Playing.png)
 
 **Music playing and information bar showing:**
 
-![Information bar](Music Playing - Status bar showing.png)
+![Information bar](/Music Playing - Status bar showing.png)
 
 #### Planned effects:
 
